@@ -7,4 +7,3 @@ The user is able to type in a query, which (on submission) is going to make a ca
 * Fetch().
 
 
-Check it out [here](react-movie-search-app-pearl.vercel.app/)
